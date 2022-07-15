@@ -93,13 +93,13 @@ button:hover {
 }
 @media only screen and (max-width: 720px) {
     .grid-container { width: 100% auto; }
-    .projects-grid { width: 100;
+    .projects-grid { width: 100%;
                     display: flex;
                     flex-direction: column;
                     justify-content: center;
                     position: relative;}
-    .project-image { width: 130;
-                    height: 100;}
+    .project-image { width: 130%;
+                    height: 100%;}
     .project-title { font-size: 12px;}
     #navbar { width: 100%;}
     ul { width: 90%;}  }   
