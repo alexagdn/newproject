@@ -92,5 +92,21 @@ button:hover {
     100% {color: #b8560b;}
 }
 @media only screen and (max-width: 473px) {
-    .grid-container { width: 100%; }
+    .grid-container { width: 100% auto; }
+    .projects-grid { width: 100;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    position: relative;}
+    .project-image { width: 130;
+                    height: 100;}
+    .project-title { font-size: 12px;}
+    #navbar { width: 100%;}
+    ul { width: 90%}                }
+
+}
+.projects-grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
