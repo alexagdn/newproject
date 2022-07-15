@@ -91,7 +91,7 @@ button:hover {
     50% {color: #b8560b;}
     100% {color: #b8560b;}
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 720px) {
     .grid-container { width: 100% auto; }
     .projects-grid { width: 100;
                     display: flex;
