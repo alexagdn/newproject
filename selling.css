@@ -102,10 +102,8 @@ button:hover {
                     height: 100;}
     .project-title { font-size: 12px;}
     #navbar { width: 100%;}
-    ul { width: 90%}                }
-
-}
-.projects-grid {
+    ul { width: 90%;}  }   
+   .projects-grid {
     display: flex;
     flex-direction: column;
     justify-content: center;
