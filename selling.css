@@ -91,3 +91,6 @@ button:hover {
     50% {color: #b8560b;}
     100% {color: #b8560b;}
 }
+@media only screen and (max-width: 473px) {
+    .grid-container { width: 100%; }
+}
