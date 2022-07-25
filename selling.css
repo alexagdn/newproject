@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: white;
     display: block;
 }
 * {
@@ -86,8 +86,8 @@ button:hover {
     color:lightsalmon;
 }
 @keyframes front {
-    0% {color: black;}
-    25% {color: black;}
+    0% {color: white;}
+    25% {color: white;}
     50% {color: #b8560b;}
     100% {color: #b8560b;}
 }
